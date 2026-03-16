@@ -14,13 +14,6 @@ the opening, closing, min, max, and volume of a stock in the previous 9 days
 (and given the opening price of a stock on day 10)
 
 ################################################################################
-## Team
-################################################################################
-Team Name: Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo
-
-Team Members: William Chen '14, Sebastian Chiu '14, Salena Cui '15, Carl Gao '15
-
-################################################################################
 ## Result
 ################################################################################
 We submitted our Ridge-Random Forest model to the Boston Data Week hackathon
